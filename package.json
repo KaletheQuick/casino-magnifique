@@ -1,0 +1,18 @@
+{
+  "name": "blackjack_sans_hookers",
+  "version": "1.0.0",
+  "description": "Blackjack without hookers, a cursed world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Everett Haynes",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
